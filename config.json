@@ -1,0 +1,6 @@
+{
+  "siteName": "NoboHaat",
+  "merchantEmail": "merchant@example.com",
+  "currency": "BDT",
+  "defaultCourierOptions": ["Shundorban", "SA Paribahan", "Pathao"]
+}
