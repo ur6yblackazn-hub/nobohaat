@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 200">
+  <rect rx="24" width="600" height="200" fill="#0b6e4f" />
+  <g transform="translate(36,28)">
+    <text x="0" y="84" font-family="Segoe UI, Roboto, Arial" font-size="96" fill="#fff" font-weight="700">Nobo</text>
+    <text x="260" y="84" font-family="Segoe UI, Roboto, Arial" font-size="96" fill="#ffd166" font-weight="700">Haat</text>
+    <circle cx="520" cy="40" r="28" fill="#fff" opacity="0.12" />
+  </g>
+</svg>

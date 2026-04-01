@@ -1,0 +1,18 @@
+[
+  {
+    "id": "p1",
+    "title": "Handmade Jute Bag",
+    "vendor": "GreenCrafts",
+    "price": 450,
+    "description": "Eco-friendly jute tote bag, handmade in Bangladesh.",
+    "image": ""
+  },
+  {
+    "id": "p2",
+    "title": "Brass Keychain (set of 2)",
+    "vendor": "RongGhor",
+    "price": 220,
+    "description": "Unique brass keychains, local artisans.",
+    "image": ""
+  }
+]
